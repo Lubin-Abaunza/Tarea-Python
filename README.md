@@ -4,6 +4,8 @@
 * **Ejercicio 1**
 
 Defina un diccionario de al menos 4 llaves de tal manera que esas llaves sean tuplas. Acceda a cada elemento. ¿Puede hacer lo mismo para una llave que sea definida como lista o diccionario?
+
+
 # Diccionario
 
 
